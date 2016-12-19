@@ -17,7 +17,7 @@ So far the following weeks have been included
 <li>&#10003; Week 7</li>
 <li>&#10003; Week 8</li>
 <li>&#10003; Week 9</li>
-<li>&#10060; Week 10</li>
-<li>&#10060; Week 11</li>
-<li>&#10060; Week 12</li>
+<li>&#10008; Week 10</li>
+<li>&#10008; Week 11</li>
+<li>&#10008; Week 12</li>
 </ul>
