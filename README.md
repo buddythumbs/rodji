@@ -4,10 +4,14 @@ Python module Notebooks
 
 ## The content is relating to STAT40800: Data Prog with Python (online)
 
-So far the following weeks have been included:
- Week 1 
-  Week 2
-  Week 3
-  Week 4
-  Week 5
-  Week 6
+So far the following weeks have been included
+
+---
+<ul>
+<li>Week 1 </li>
+<li>Week 2</li>
+<li>Week 3</li>
+<li>Week 4</li>
+<li>Week 5</li>
+<li>Week 6</li>
+</ul>
