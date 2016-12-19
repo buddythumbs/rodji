@@ -8,10 +8,16 @@ So far the following weeks have been included
 
 ---
 <ul>
-<li>Week 1 </li>
-<li>Week 2</li>
-<li>Week 3</li>
-<li>Week 4</li>
-<li>Week 5</li>
-<li>Week 6</li>
+<li>&#10003; Week 1 </li>
+<li>&#10003; Week 2</li>
+<li>&#10003; Week 3</li>
+<li>&#10003; Week 4</li>
+<li>&#10003; Week 5</li>
+<li>&#10003; Week 6</li>
+<li>&#10003; Week 7</li>
+<li>&#10003; Week 8</li>
+<li>&#10003; Week 9</li>
+<li>&#10060; Week 10</li>
+<li>&#10060; Week 11</li>
+<li>&#10060; Week 12</li>
 </ul>
